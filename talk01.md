@@ -18,8 +18,9 @@ Technology Stack:
 2. MySql. (Or Datasource of your choice)
 3. Angular for frontend
 
-Optional 1: You will learn, Containerized App Development workflow using Docker. 
-Optional 2: Authentication using loopback-Passport Strategies.
+Optional
+1. You will learn, Containerized App Development workflow using Docker. 
+2. Authentication using loopback-Passport Strategies.
 
 Good News is Its Open Source:
 - https://loopback.io
@@ -30,3 +31,5 @@ Though loopback 4 is coming up entirely on the typescript. It's still too early.
 
 ### Duration: half day (3 hours)
 ### Schedule: 17th March, 2018
+
+### Github repo: <TBA>
