@@ -29,7 +29,7 @@ Good News is Its Open Source:
 We will be using loopback version 3.
 Though loopback 4 is coming up entirely on the typescript. It's still too early. So we will write our backend in JS., not in TypeScript
 
-### Duration: 10:00 - 12:30
+### Duration: 10:00 A.M - 12:30 A.M
 ### Schedule: 17th March, 2018
 ### Venue: #02-13, 79 Ayer Rajah Crescent, Block 79, Singapore 139955
 ### Free to attend
