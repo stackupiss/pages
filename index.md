@@ -8,4 +8,4 @@ In case you have a query feel free to [drop us a mail](mailto:bala@nus.edu.sg)
 Want to learn how to build your REST APIs in minutes using loopback (a NodeJs Framework).
 
 Please join us and learn from our Talk/Demo session this saturday (17th March, 2018).
-[details](./talk01.md)
+[click here for more details](./talk01.md)
