@@ -1,3 +1,4 @@
 ## Welcome
 
-We are in the process of revamping our website and should be up real soon. In case you have a query feel free to [drop us a mail](mailto:abhinit.ambastha@gmail.com)
+Welcome to stackup.
+In case you have a query feel free to [drop us a mail](mailto:bala@nus.edu.sg)
