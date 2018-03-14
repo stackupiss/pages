@@ -5,7 +5,7 @@ In case you have a query feel free to [drop us a mail](mailto:bala@nus.edu.sg)
 
 ### First Event: Talk on loopback (Nodejs framework)
 
-Agenda: Want to learn how to build your REST APIs in minutes using loopback (a NodeJs Framework) in an extensible way.
+Want to learn how to build your REST APIs in minutes using loopback (a NodeJs Framework).
 
-Come and learn from our 2:30 Talk/Demo session.
-[details](./chatbot.md)
+Please join us and learn from our Talk/Demo session this saturday (17th March, 2018).
+[details](./talk01.md)
