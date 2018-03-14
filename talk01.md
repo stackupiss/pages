@@ -31,6 +31,7 @@ Though loopback 4 is coming up entirely on the typescript. It's still too early.
 
 ### Duration: half day (3 hours)
 ### Schedule: 17th March, 2018
+### Venue: #02-13, 79 Ayer Rajah Crescent, Block 79, Singapore 139955
 ### Free to attend
 
 ### Github repo: <TBA>
