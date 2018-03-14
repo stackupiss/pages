@@ -1,0 +1,10 @@
+Searching 18 files for "stepping"
+
+/Users/std-user01/Projects/stackup-page/stackupiss.github.io/_layouts/default.html:
+   31            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+   32          {% endif %}
+   33:         <span class="site-footer-credits">Talk is cheap, Show me the code.</span>
+   34        </footer>
+   35      </section>
+
+1 match in 1 file
