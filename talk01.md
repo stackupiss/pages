@@ -34,4 +34,4 @@ Though loopback 4 is coming up entirely on the typescript. It's still too early.
 ### Venue: #02-13, 79 Ayer Rajah Crescent, Block 79, Singapore 139955
 ### Free to attend
 
-### Github repo: [github repo](https://github.com/balaprasanna/loopback-angular5-workshop)
+### Github repo: [loopback-angular5-workshop](https://github.com/balaprasanna/loopback-angular5-workshop)
