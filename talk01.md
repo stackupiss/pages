@@ -1,4 +1,4 @@
-## Build your REST APIs in minutes using loopback.io (a NodeJs Framework).
+## Build your RESTful APIs in minutes using loopback.io (a NodeJs Framework).
 
 This workshop is aimed at gaining hands-on experience in developing intelligent text analysis platforms (for instance chatbots). 
 Wanted to see how to do the following in a faster way within minutes. Come to our tech talk.
@@ -34,4 +34,4 @@ Though loopback 4 is coming up entirely on the typescript. It's still too early.
 ### Venue: #02-13, 79 Ayer Rajah Crescent, Block 79, Singapore 139955
 ### Free to attend
 
-### Github repo: <TBA>
+### Github repo: [github repo](https://github.com/balaprasanna/loopback-angular5-workshop)
